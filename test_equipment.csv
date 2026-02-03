@@ -1,0 +1,11 @@
+Equipment Name,Type,Flowrate,Pressure,Temperature
+Pump-001,Centrifugal Pump,150.5,25.3,45.2
+Tank-001,Storage Tank,0.0,1.0,22.5
+Valve-001,Control Valve,85.2,18.7,38.0
+Reactor-001,CSTR,200.0,35.5,120.3
+Exchanger-001,Heat Exchanger,175.8,12.4,85.6
+Pump-002,Centrifugal Pump,145.2,24.8,44.0
+Compressor-001,Centrifugal Compressor,300.0,50.0,65.0
+Tank-002,Storage Tank,0.0,1.0,25.0
+Reactor-002,CSTR,180.0,32.0,115.0
+Valve-002,Control Valve,90.0,20.0,40.0
